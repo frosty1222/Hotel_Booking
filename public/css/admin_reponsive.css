@@ -1,0 +1,22 @@
+@media only screen and (max-width:650px){
+    .input-group{
+        display: none !important;
+    }
+    .nav-link.bg-danger{
+        display:none !important;
+    }
+    .nav-link.bg-light{
+        display:none !important;
+    }
+}
+@media only screen and (max-width:850px) and (min-width:650px){
+    .input-group{
+        display: none !important;
+    }
+    .nav-link.bg-danger{
+        display:none !important;
+    }
+    .nav-link.bg-light{
+        display:none !important;
+    }
+}
